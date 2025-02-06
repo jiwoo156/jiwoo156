@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## I hate Ps 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjwldn2222)](https://solved.ac/tjwldn2222/)
 <!--
 **jiwoo156/jiwoo156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
